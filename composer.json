@@ -1,0 +1,13 @@
+{
+    "name": "maia/siscoi",
+    "description": "Sistema de Controle Interno",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Maia",
+            "email": "mmaia.inf@gmail.com"
+        }
+    ],
+    "require": {}
+}
